@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aman Kumar</h1>
-<h3 align="center">I'm a final year Computer Science student with a strong interest in software development, data structures & algorithms, and building real-world tech solutions</h3>
+<h3 align="center">I'm a Computer Science student with a strong interest in software development, data structures & algorithms, and building real-world tech solutions</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amankumarsah272&label=Profile%20views&color=0e75b6&style=flat" alt="amankumarsah272" /> </p>
 
-- 🔭 I’m currently working on **ONLINE TICKET BOOKING SYSTEM**
+- 🔭 I’m currently working on **CLASSTA-ONLINE LEARNING PLATFORM**
 
 - 🌱 I’m currently learning **MERN Stack**
 
